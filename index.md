@@ -7,9 +7,9 @@ Applied Mathematician, Computer Programmer.
 
 <div id="webaddress">
 <a href="michael.schuresko@gmail.com">michael.schuresko@gmail.com</a>
-| <a href="http://www.soe.ucsc.edu/~mds">Academic web page</a>
-| <a href="http://shadertoy.com/user/mds2">Shadertoy user page</a>
-| <a href="http://github.com/mds2">Github</a>
+| <a href="https://www.soe.ucsc.edu/~mds">Academic web page</a>
+| <a href="https://shadertoy.com/user/mds2">Shadertoy user page</a>
+| <a href="https://github.com/mds2">Github</a>
 </div>
 
 
@@ -33,19 +33,26 @@ Distributed robotics, Distributed control, multi-agent systems
 `1996-2000`
 __BSCS, Carnegie Mellon University, Pittsburgh, PA__
 
-`2004-200?`
+`2004-2008`
 __MSCS, University of California Santa Cruz, Santa Cruz, CA__
 
-`200?-2009`
+`2008-2009`
 __PhD, University of California Santa Cruz, Santa Cruz, CA__
-
-
+Coursework in dynamical systems, control theory, numerical methods,
+statistics, bayesian statistics, machine learning, and a light touch of
+operations research.
+Degree is technically in the field of "Statistics and Stochastic Modeling"
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Thesis
+
+__Controlling Global Network Connectivity of Robot Swarms With Local
+Interactions__
+2009
+http://carmenere.ucsd.edu/jorge/group/data/PhDThesis-MikeSchuresko-09.pdf
 
 ### Journals
 
@@ -53,12 +60,14 @@ __PhD, University of California Santa Cruz, Santa Cruz, CA__
 __Distributed tree rearrangements for reachability and robust connectivity__
 M. Schuresko, J. Cortés
 SIAM Journal on Control and Optimization 50 (5) (2012), 2588-2620
+http://carmenere.ucsd.edu/jorge/publications/jp/jp047.html
 
 
 `2008`
 __Distributed motion constraints for algebraic connectivity of robotic networks__
 M. Schuresko, J. Cortés
 Journal of Intelligent and Robotic Systems 56 (1-2) (2009), 99-126
+http://carmenere.ucsd.edu/jorge/publications/jp/jp042.html
 
 ### Conference
 
@@ -80,7 +89,7 @@ __Correctness analysis and optimality bounds of multi-spacecraft formation
 initialization algorithms__
 M. Schuresko, J. Cortés
 Proceedings of the IEEE Conference on Decision and Control,
-San Diego, California, USA, 2006, pp. 4602-4607
+San Diego, California, USA, 2006, pp. 5974-5979
 
 ## Occupation
 
@@ -90,6 +99,12 @@ __Oblong Industries__, Los Angeles, CA
 - Natural UI / Gestural interaction
 - Realtime visual effects
 - Multi-machine display walls
+- Creative coding
+- Development in support of vision, motion, and interaction design
+
+Work done in this position can be seen at
+https://www.oblong.com/blog/socializing-ai-with-ibm-watson
+
 
 `2010-2012`
 __Google__, Irvine, CA
