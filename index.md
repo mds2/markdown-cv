@@ -1,53 +1,43 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michael Schureskos's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Michael Schuresko
+Applied Mathematician, Computer Programmer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="michael.schuresko@gmail.com">michael.schuresko@gmail.com</a>
+| <a href="http://www.soe.ucsc.edu/~mds">Academic web page</a>
+| <a href="http://shadertoy.com/user/mds2">Shadertoy user page</a>
+| <a href="http://github.com/mds2">Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Computer graphics and visual effects for multi-machine display walls.
+Oblong Industries, Los Angeles, CA.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Distributed robotics, control theory, applied mathematics, computer graphics.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Distributed robotics, Distributed control, multi-agent systems
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1996-2000`
+__BSCS, Carnegie Mellon University, Pittsburgh, PA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2004-200?`
+__MSCS, University of California Santa Cruz, Santa Cruz, CA__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`200?-2009`
+__PhD, University of California Santa Cruz, Santa Cruz, CA__
 
 
 
@@ -55,33 +45,61 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+### Thesis
+
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Distributed tree rearrangements for reachability and robust connectivity__
+M. Schuresko, J. Cortés
+SIAM Journal on Control and Optimization 50 (5) (2012), 2588-2620
 
+
+`2008`
+__Distributed motion constraints for algebraic connectivity of robotic networks__
+M. Schuresko, J. Cortés
+Journal of Intelligent and Robotic Systems 56 (1-2) (2009), 99-126
+
+### Conference
+
+`2008`
+__Distributed motion constraints for algebraic connectivity of robotic
+networks__
+M. Schuresko, J. Cortés
+Proceedings of the IEEE Conference on Decision and Control,
+Cancun, Mexico, 2008, pp. 5482-5487
+
+`2007`
+__Safe graph rearrangements for distributed connectivity of robotic networks__
+M. Schuresko, J. Cortés
+Proceedings of the IEEE Conference on Decision and Control,
+New Orleans, Louisiana, USA, 2007, pp. 4602-4607
+
+`2006`
+__Correctness analysis and optimality bounds of multi-spacecraft formation
+initialization algorithms__
+M. Schuresko, J. Cortés
+Proceedings of the IEEE Conference on Decision and Control,
+San Diego, California, USA, 2006, pp. 4602-4607
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2012-present`
+__Oblong Industries__, Los Angeles, CA
 
-- Warden
-- Minted coins
+- Natural UI / Gestural interaction
+- Realtime visual effects
+- Multi-machine display walls
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2010-2012`
+__Google__, Irvine, CA
 
+`2009-2010`
+__Hooked Wireless__, Cupertino, CA
+
+- Computer graphics for embedded systems
+- Conformance tests for OpenCL
+- Variety of special projects
 
 
 <!-- ### Footer
