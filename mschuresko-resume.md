@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Michael Schureskos's CV
+title: Michael Schuresko
 ---
 # Michael Schuresko
 Software Engineer with a background in Applied Mathematics and in
@@ -10,11 +10,10 @@ Computer Graphics
 * <https://github.com/mds2> Github
 * <https://www.soe.ucsc.edu/~mds> Academic web page
 
+## Contact
 
-
-
-
-
+* <michael.schuresko@gmail.com>
+* 408-931-2176
 
 ## Occupation
 
@@ -64,6 +63,9 @@ time step.
 `2010-2012`
 __Google__, Irvine, CA
 
+Worked on a project attempting to use circa-2010 machine learning
+techniques to a document classification problem.
+
 `2009-2010`
 __Hooked Wireless__, Cupertino, CA
 
@@ -73,7 +75,23 @@ __Hooked Wireless__, Cupertino, CA
 - Developed shader effects to mimic effects rendered in an offline movie
 on an embedded GPU in a car dashboard.
 
+Hooked was a small no-VC software company that funded development of
+internal projects by contracting out employees to Bay Area companies that
+needed mobile OpenGL development.  It was especially busy around the early
+days of the mobile revolution.
 
+It was here that I caught up from "circa 1990s OpenGL" to what was then
+"modern" WebGL.
+
+I wrote C++ and OpenGL code that ran on some surprisingly exotic embedded
+platforms, learned how to performance-tune shader code without introspective
+tools, tuned CPU code for image pre-processing on frustratingly small
+CPUs, and first learned of the flexibility of GPU-side shaders for
+mimicing effects prototyped by artists via traditional movie-render software.
+I am continually surprised to find that shader performance rules of thumb
+I learned during this era no longer apply, and that the valuable knowledge
+I acquired was not these rules of thumb by themselves, but how to discover
+them.
 
 ## Education
 
@@ -93,13 +111,30 @@ Coursework in dynamical systems, control theory, numerical methods,
 statistics, bayesian statistics, machine learning, and a light touch of
 operations research.
 
+Research entailed applying ideas from algorithms and graph theory,
+in addition to more conventional control theoretic ideas,
+to solving low-level control problems involving multiple
+coordinating (swarming) robots.
+
 Degree is technically in the field of "Statistics and Stochastic Modeling"
 
 ## Publications
 
 A list is also available <https://scholar.google.co.uk/citations?hl=en&user=Jv0Km_gAAAAJ>
 
+## Other
 
+Often send (correct) solutions to the monthly IBM Research "Ponder This" puzzle.
+(Can be confirmed with a Google search for `"schuresko" ibm ponder` )
+
+Regularly sent solutions to the cs.cmu puzzle <https://www.cs.cmu.edu/puzzle/>
+back when it was still active.
+
+Participated with the team "The Additional Payphones" in the qualifying event
+for the 2020 Air Force sponsored "Hack a Sat" capture the flag contest
+<https://www.hackasat.com/> . Mostly focused on problems involving
+tracking, guidance, and controls and left the traditional hacking
+to the other team members.
 
 <!-- ### Footer
 
