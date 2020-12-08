@@ -15,6 +15,21 @@ Computer Graphics
 * <michael.schuresko@gmail.com>
 * 408-931-2176
 
+## Background
+
+* particle systems
+* video processing in shaders
+* kalman filtering
+* raymarching
+* transparency
+* PD controllers for animation
+* VRAM usage management via LOD
+* ad-hoc faking rendered effects in realtime shaders
+* distributed (multi-machine) realtime rendering and animation
+* hardware accelerated line drawing
+* blending for 2d spatial anti-aliasing
+* 6 DOF UI sensors
+
 ## Occupation
 
 `2018-2020`
