@@ -17,11 +17,47 @@ Computer Graphics
 
 ## Occupation
 
+`2021-2023`
+__Bluescape__, San Carlos, CA
+
+- Rendering optimization for an infinitely zoomable web-based virtual whiteboard
+- three.js & WebGL
+- Improved algorithms for interactive 2d alignment of placed objects
+- Font utilities to improve font bundling for multi-language support
+- shader effects for 2d drawing
+- prototype feature to replace GIF playback with three.js video textures
+- Miscellaneous web-frontend programming
+
+Bluescape made a primarily web-based product that bundled a virtual
+whiteboard with video conferencing capabilities. Rendering was 2d and done
+with WebGL and ThreeJS, but with an interactive conventional-web layer
+built with redux/react.
+
+WebGL is fairly easy to pick up if one is familiar with graphics programming
+in other contexts, and Three.js is a friendly and straightforward
+scenegraph (with the bonus that one can read the source if the documentation
+is inadequate). This felt like a continuation of the sort of graphics
+programming I'd done in previous jobs, with the added benefit that
+the browser context makes managing asset uploads much easier than it is in
+a C++ graphics application (and the added drawback that CPU-side code tends
+to be slower than properly written C++).
+
+I did learn enough vanilla front-end web development to be able to dabble
+in that as needed, and gained some exposure to the infamous plethora of
+frameworks available to frontend javascript developers.
+
 `2018-2020`
 __Standard Cognition__, San Francisco, CA
 
 - Tracking systems for computer vision
 - Statistical techniques for processing output of a deep learning system
+- Python with some Rust
+
+Was hired onto the "tracking" team at a company trying to make an
+autonomous checkout system using computer vision. The architecture at the time
+involved feeding feature detections from a modern deep-learning system through
+a tracker built with classical bayesian-style filters (Kalman filters and
+variants thereof).
 
 `2012-2018`
 __Oblong Industries__, Los Angeles, CA
@@ -81,7 +117,7 @@ needed mobile OpenGL development.  It was especially busy around the early
 days of the mobile revolution.
 
 It was here that I caught up from "circa 1990s OpenGL" to what was then
-"modern" WebGL.
+"modern" GLES.
 
 I wrote C++ and OpenGL code that ran on some surprisingly exotic embedded
 platforms, learned how to performance-tune shader code without introspective
