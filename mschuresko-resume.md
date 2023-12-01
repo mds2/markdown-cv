@@ -152,7 +152,8 @@ in addition to more conventional control theoretic ideas,
 to solving low-level control problems involving multiple
 coordinating (swarming) robots.
 
-Degree is technically in the field of "Statistics and Stochastic Modeling"
+Doctoral degree is technically in the field of "Statistics and Stochastic
+Modeling". Other degrees are in Computer Science.
 
 ## Publications
 
